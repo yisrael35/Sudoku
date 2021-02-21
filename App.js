@@ -4,7 +4,7 @@ import WelcomeScreen from "./app/screens/WelcomeScreen";
 import MyComponent from "./app/screens/table";
 
 export default function App() {
-  // return <WelcomeScreen />;
+  return <WelcomeScreen />;
   return <App />;
 }
 
